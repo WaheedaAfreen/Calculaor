@@ -1,0 +1,29 @@
+#input {
+      background-color: rgb(236, 230, 208);
+      margin-left: 350px;
+      height: 80px;
+      width: 40%;
+      border-radius: 10px;
+      border: 5px solid salmon;
+      margin-top: 50px;
+}
+
+.num {
+      height: 400px;
+      margin-left: 350px;
+      width: 40%;
+      border-radius: 10px;
+      border: 5px solid rgb(140, 53, 101);
+      background-color: rgb(226, 152, 62);
+}
+
+.oprators {
+      
+      text-align: center;
+}
+
+.number {
+    
+      text-align: center;
+    
+}
